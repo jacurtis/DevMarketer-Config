@@ -149,77 +149,76 @@ I also personally look for fonts that support programming ligatures. Not all fon
 Here are some of the fonts I find to be the best.
 
 1. [FiraCode](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraCode)
-  - **PRO:** Supports Retina screens
-  - **PRO:** HUGE Variety of weights available
-  - **PRO:** Tall descenders (high m-height)
-  - **PRO:** Large line height
-  - **PRO:** Lots of ligatures
-  - **PRO:** Space shifting ligatures
-  - **PRO:** FiraMono is an identical font set without ligatures (if you are into that)
-  - **CON:** Why does the `r` have a serif? What a strange design choice. 
-  - Maintained by Mozilla
-  - 
+    - **PRO:** Supports Retina screens
+    - **PRO:** HUGE Variety of weights available
+    - **PRO:** Tall descenders (high m-height)
+    - **PRO:** Large line height
+    - **PRO:** Lots of ligatures
+    - **PRO:** Space shifting ligatures
+    - **PRO:** FiraMono is an identical font set without ligatures (if you are into that)
+    - **CON:** Why does the `r` have a serif? What a strange design choice. 
+    - Maintained by Mozilla
 
 2. [JetBrains Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono)
-  - **PRO:** Enlarged operators. They are perfect.
-  - **PRO:** Lots of ligatures
-  - **PRO:** Space shifting ligatures
-  - **PRO:** Tall descenders (high m-height)
-  - **PRO:** Large line height
-  - **PRO:** I really like the `g` character on this font. Much cleaner than other stylized g's that other mono's use
-  - **PRO:** The `s and S` characters are incredible. Very distinct from the number `5`. The curls at the ends curl in on themselves more than most S characters.
-  - **PRO:** Includes both dotted zero and slashed zero. Dotted being default and slashed available via OpenType. This is something you can set in your IDE. I like that they include both.
-  - **PRO:** Best semicolon I have ever seen. Especially if you write code in a semi-colon ended language, this thing is really a stamp of power at the end of a line. You can tell it is terminating a statement. I love it.
-  - **PRO:** Brackets and Parentheses are very distinct and clear
-  - **PRO:** Free and open source
-  - **PRO:** 7 weights with matching italics
-  - **CON:** The `@` is really weigh. It circles the left half of the a, but not the right half? Out of context you can actually be unsure what character it is trying to be.
-  - **CON:** The number `4` is really "aggressive" and starts to actually resemble what looks like a "git branch" character if you look at it too long. It is distinct, but overall I don't like it.
-  - **CON:** The `t` character could use shorter arms. It is close to resembling the `+` excempt for the tail on it's leg.
-  - **CON:** The `g` character is WAY too busy, ruining legibility
+    - **PRO:** Enlarged operators. They are perfect.
+    - **PRO:** Lots of ligatures
+    - **PRO:** Space shifting ligatures
+    - **PRO:** Tall descenders (high m-height)
+    - **PRO:** Large line height
+    - **PRO:** I really like the `g` character on this font. Much cleaner than other stylized g's that other mono's use
+    - **PRO:** The `s and S` characters are incredible. Very distinct from the number `5`. The curls at the ends curl in on themselves more than  most S characters.
+    - **PRO:** Includes both dotted zero and slashed zero. Dotted being default and slashed available via OpenType. This is something you can set   in your IDE. I like that they include both.
+    - **PRO:** Best semicolon I have ever seen. Especially if you write code in a semi-colon ended language, this thing is really a stamp of power  at the end of a line. You can tell it is terminating a statement. I love it.
+    - **PRO:** Brackets and Parentheses are very distinct and clear
+    - **PRO:** Free and open source
+    - **PRO:** 7 weights with matching italics
+    - **CON:** The `@` is really weigh. It circles the left half of the a, but not the right half? Out of context you can actually be unsure what   character it is trying to be.
+    - **CON:** The number `4` is really "aggressive" and starts to actually resemble what looks like a "git branch" character if you look at it too   long. It is distinct, but overall I don't like it.
+    - **CON:** The `t` character could use shorter arms. It is close to resembling the `+` excempt for the tail on it's leg.
+    - **CON:** The `g` character is WAY too busy, ruining legibility
 
 3. [Meslo](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Meslo)
-  - **PRO:** EXTRA LARGE line height
-  - **PRO:** Clean overall look. Soft edges, clear characters.
-  - **PRO:** The `l` character is really nice without trying too hard
-  - **PRO:** Some of the best tilde and hyphen distinctions. The tilde in general is really well designed.
-  - **PRO:** Slashed zero, which I prefer.
-  - **PRO:** All the numbers are crystal clear. The 4 is very clear, the 8 has more curve than other fonts, making it distinct from the zero. The nine is also solidly designed.
-  - **CON:** EXTRA LARGE line height - I know i listed this as a "pro" as well. That is the thing about Meslo that I hate. The extra large line height is cool in some contexts and aweful in others. For example when running terminal commands and navigating directories in the terminal it is great. When you open Vim with this font, it almost breaks Vim. It's greatest strength is also its greatest weakness. There is a philosophy lesson in there somewhere.
-  - **CON:** Without the slash, the `O` and `0` characters look identical
-  - **CON:** Parenthesis are weak, but legible
-  - **CON:** No ligatures
+    - **PRO:** EXTRA LARGE line height
+    - **PRO:** Clean overall look. Soft edges, clear characters.
+    - **PRO:** The `l` character is really nice without trying too hard
+    - **PRO:** Some of the best tilde and hyphen distinctions. The tilde in general is really well designed.
+    - **PRO:** Slashed zero, which I prefer.
+    - **PRO:** All the numbers are crystal clear. The 4 is very clear, the 8 has more curve than other fonts, making it distinct from the zero. The   nine is also solidly designed.
+    - **CON:** EXTRA LARGE line height - I know i listed this as a "pro" as well. That is the thing about Meslo that I hate. The extra large line   height is cool in some contexts and aweful in others. For example when running terminal commands and navigating directories in the terminal it  is great. When you open Vim with this font, it almost breaks Vim. It's greatest strength is also its greatest weakness. There is a philosophy  lesson in there somewhere.
+    - **CON:** Without the slash, the `O` and `0` characters look identical
+    - **CON:** Parenthesis are weak, but legible
+    - **CON:** No ligatures
 
 4. [Space Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SpaceMono)
-  - **PRO:** Clean, easy to read
-  - **PRO:** Aggressive parentheses characters
-  - **PRO:** Very squared characters. If you are into that style.
-  - **PRO:** Clear distinction between double quote and single quote characters
-  - **CON:** Square brackets and Curley Braces are very hard to tell apart.
-  - **CON:** Undersized operators
-  - **CON:** Excessively elongated characters
-  - **CON:** Short line-height'
-  - **CON:** No ligatures
+    - **PRO:** Clean, easy to read
+    - **PRO:** Aggressive parentheses characters
+    - **PRO:** Very squared characters. If you are into that style.
+    - **PRO:** Clear distinction between double quote and single quote characters
+    - **CON:** Square brackets and Curley Braces are very hard to tell apart.
+    - **CON:** Undersized operators
+    - **CON:** Excessively elongated characters
+    - **CON:** Short line-height'
+    - **CON:** No ligatures
 
 5. [Hack](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack)
-  - **PRO:** Active development
-  - **PRO:** Open source & Free
-  - **PRO:** Easily [install with all major package managers](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack#package-managers)
-  - **PRO:** Webfont compatible. Hosted version available via jsdelivr and cdnjs
-  - **PRO:** Customizable with the [alt-hack library](https://github.com/source-foundry/alt-hack) which allows you to recompile your font with rounder parenthesis, slash-zero instead of dot-zero, flat-top numbers, slab characters, and more.
-  - **PRO:** Customizable [line-height](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack#line-spacing-adjustments)
-  - **PRO:** Clean and clear reading in source code
-  - **PRO:** Designed for high-contrast themes like Monokai
-  - **PRO:** Offset parenthesis create natural space on wrapped characters that I really love!
-  - **PRO:** Great design of semi-colon, with distinct comma section. Great ending to a line.
-  - **PRO:** Powerline support included by default (additional glyphs via Nerdfonts)
-  - **PRO:** Oversized operators
-  - **PRO:** Great Tilde character. Distinct from hyphen.
-  - **PRO:** All numerals are excellently designed. I particularly like the zero, which is a cross between dotted and slashed with a line down the center. Each character is unique and distinct from letters.
-  - **CON:** The baseline of symbols is very off. Ampersands and percentages sit very high, compared to dollar signs and at signs.
-  - **CON:** The backtick needs to be more distinct
-  - **CON:** Decimal/period is a little small
-  - **CON:** No ligatures
+    - **PRO:** Active development
+    - **PRO:** Open source & Free
+    - **PRO:** Easily [install with all major package managers](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/  Hack#package-managers)
+    - **PRO:** Webfont compatible. Hosted version available via jsdelivr and cdnjs
+    - **PRO:** Customizable with the [alt-hack library](https://github.com/source-foundry/alt-hack) which allows you to recompile your font with  rounder parenthesis, slash-zero instead of dot-zero, flat-top numbers, slab characters, and more.
+    - **PRO:** Customizable [line-height](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack#line-spacing-adjustments)
+    - **PRO:** Clean and clear reading in source code
+    - **PRO:** Designed for high-contrast themes like Monokai
+    - **PRO:** Offset parenthesis create natural space on wrapped characters that I really love!
+    - **PRO:** Great design of semi-colon, with distinct comma section. Great ending to a line.
+    - **PRO:** Powerline support included by default (additional glyphs via Nerdfonts)
+    - **PRO:** Oversized operators
+    - **PRO:** Great Tilde character. Distinct from hyphen.
+    - **PRO:** All numerals are excellently designed. I particularly like the zero, which is a cross between dotted and slashed with a line down the center. Each character is unique and distinct from letters.
+    - **CON:** The baseline of symbols is very off. Ampersands and percentages sit very high, compared to dollar signs and at signs.
+    - **CON:** The backtick needs to be more distinct
+    - **CON:** Decimal/period is a little small
+    - **CON:** No ligatures
 
 THese 5 fonts are my favorite to mess around with. I find that I am turning to Hack and FiraCode the most often. Although I have started converting to JetBrains Mono now in my primary text editor. It just looks really good and has the best ligatures. I really like the design of the characters for the Hack font, and its' native powerline support. But because it doesn't support ligatures, I have to reach for a different font when I am in a text editor, playing with my code.
 
